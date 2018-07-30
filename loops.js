@@ -1,7 +1,7 @@
 for (let i = 1; i < 25; i++){
   if (i === 1){
     console.log ("I am 1 strange loop.")
-  } else { (i === 0)
+  } else { 
     console.log("I am ${i} strange loops.")
   }
 }
