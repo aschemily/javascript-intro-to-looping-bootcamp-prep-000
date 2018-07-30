@@ -16,10 +16,8 @@ function whileLoop(number){
  return 'done'
 }
 
-function maybeTrue(){
-  return array.length > 0 
-}
-do { console.log ('')
+function doWhileLoop(array){
+  do {
 }
   
 
